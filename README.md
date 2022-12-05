@@ -5,4 +5,14 @@ The EasyManager App is developed for easy management of expenses in your daily l
 
 
 ## App UI
-![Alt text]("E:\Aamir\Previous Data\New folder\Signup Mobile App UI.png")
+
+#### Signup Screen
+![Signup Mobile App UI](https://user-images.githubusercontent.com/86880865/205693650-8b946adb-33d0-4c24-9425-5b386757f79b.png)
+
+#### Login Screen
+
+
+#### Forgot Password Screen
+
+
+#### Dashboard Screen
